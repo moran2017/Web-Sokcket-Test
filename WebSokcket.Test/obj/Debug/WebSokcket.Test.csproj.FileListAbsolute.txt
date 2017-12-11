@@ -1,0 +1,7 @@
+C:\Users\Moran\source\repos\Web Sokcket Test\WebSokcket.Test\bin\Debug\WebSokcket.Test.exe.config
+C:\Users\Moran\source\repos\Web Sokcket Test\WebSokcket.Test\bin\Debug\WebSokcket.Test.exe
+C:\Users\Moran\source\repos\Web Sokcket Test\WebSokcket.Test\bin\Debug\WebSokcket.Test.pdb
+C:\Users\Moran\source\repos\Web Sokcket Test\WebSokcket.Test\obj\Debug\WebSokcket.Test.csprojResolveAssemblyReference.cache
+C:\Users\Moran\source\repos\Web Sokcket Test\WebSokcket.Test\obj\Debug\WebSokcket.Test.csproj.CoreCompileInputs.cache
+C:\Users\Moran\source\repos\Web Sokcket Test\WebSokcket.Test\obj\Debug\WebSokcket.Test.exe
+C:\Users\Moran\source\repos\Web Sokcket Test\WebSokcket.Test\obj\Debug\WebSokcket.Test.pdb
